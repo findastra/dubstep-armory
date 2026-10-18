@@ -1,6 +1,6 @@
 # pet-program-37
 
-*A pet app by Astra.*
+*An Intelligent App, or Pet, by Astra.*
 
 **Dubstep Gunsmith's pet program** in [Astra's PetOS](https://github.com/findastra/astras-pet-os): pet program #37.
 Stage: **Seed**: named and approved, not built yet.
