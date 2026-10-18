@@ -1,4 +1,4 @@
-# Rules for assistants working on pet-program-37
+# Rules for assistants working on Dubstep Armory
 
 Dubstep Gunsmith's pet program, part of Astra's PetOS (https://github.com/findastra/astras-pet-os). Public credit is always **Astra**.
 Read the hub's AGENTS.md, PROTECTION-RINGS.md, PET-PROGRAM-FRAMEWORK.md and `skills/farm-security` first, and build to
