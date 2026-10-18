@@ -1,13 +1,11 @@
-# pet-program-37
+# Dubstep Armory
 
 *An Intelligent App, or Pet, by Astra.*
 
 **Dubstep Gunsmith's pet program** in [Astra's PetOS](https://github.com/findastra/astras-pet-os): pet program #37.
 Stage: **Seed**: named and approved, not built yet.
 
-> **`pet-program-37-v1.0-mini-descriptor-v1.0`:** Astra’s catalog site for avatar gun effects and loadouts, made with Codex on 2026-10-12. Its source is only in Codex’s workspace on the PC, not on GitHub yet.
-
-Name not assigned yet (idea: *Dubstep Gunsmith Shop, or something more clever (Astra, 2026-10-14)*). Until then it is `pet-program-37`.
+> **`dubstep-armory-v1.0-mini-descriptor-v1.0`:** Catalogs avatar gun effects and loadouts for Astra’s avatars. Its source is still only on the PC, not on GitHub.
 
 Its source, a catalog site for avatar gun effects and loadouts, is in Codex's workspace on Astra's PC; Codex moves it here.
 
